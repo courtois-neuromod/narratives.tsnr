@@ -1,0 +1,4 @@
+[submodule "sourcedata/narratives.fmriprep"]
+	path = sourcedata/narratives.fmriprep
+	url = https://github.com/courtois-neuromod/narratives.fmriprep
+	datalad-url = https://github.com/courtois-neuromod/narratives.fmriprep
