@@ -1,0 +1,1 @@
+9382c77c-d356-4052-bd62-0a8abd965375 autoenable=true bucket=cneuromod.narratives.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.narratives.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785345272s
